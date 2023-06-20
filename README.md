@@ -31,7 +31,7 @@ To run the Fitness Tracker project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/fitness-tracker.git
+   git clone https://github.com/Kenneth732/FitnessTracker.git
    ```
 
 2. Navigate to the project directory:
