@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fitness Tracker</title>
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Fitness Tracker</h1>
+  </header>
+  <main>
+    <section id="exercise-form">
+      <h2>Log Exercise</h2>
+      <form id="exercise-log-form">
+        <label for="exercise-name">Exercise Name:</label>
+        <input type="text" id="exercise-name" placeholder="Enter exercise name" required>
+
+        <label for="exercise-duration">Duration (minutes):</label>
+        <input type="number" id="exercise-duration" placeholder="Enter exercise duration" required>
+
+        <button type="submit">Log Exercise</button>
+      </form>
+    </section>
+    <section id="exercise-history">
+      <h2>Exercise History</h2>
+      <!-- Display exercise history here -->
+    </section>
+  </main>
+  <script src="static/js/script.js"></script>
+</body>
+</html>
