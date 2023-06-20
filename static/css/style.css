@@ -66,3 +66,37 @@
     border-radius: 5px;
   }
   
+  #exercise-form button {
+    background-color: #222;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Exercise history styles */
+  .exercise {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .exercise h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .exercise p {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  /* Responsive styles */
+  @media screen and (max-width: 600px) {
+    main {
+      padding: 10px;
+    }
+  }
+  
