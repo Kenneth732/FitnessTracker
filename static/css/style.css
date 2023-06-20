@@ -44,4 +44,25 @@
     margin-bottom: 10px;
   }
   
+  /* Exercise form styles */
+  #exercise-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  #exercise-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  #exercise-form input[type="text"],
+  #exercise-form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
   
