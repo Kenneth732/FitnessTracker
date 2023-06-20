@@ -1,7 +1,14 @@
 # BlackCoder@CodeWise.com
 
+
+> Fitness Tracker:
+- Users should be able to create an account and log in to track their workouts.
+- Implement a user-friendly interface for logging exercises, including exercise name, duration, and intensity.
+- Include features for setting fitness goals, such as daily step count or calorie intake, and track progress towards those goals.
+- Provide calorie tracking by integrating with a nutrition database or using formulas for estimation.
+- Visualize workout history and progress using charts or graphs.
 ```
-# Fitness Tracker
+ Fitness Tracker
 
 The Fitness Tracker is a web application that allows users to log their exercise activities and keep track of their exercise history. It provides a simple and intuitive interface for recording exercise details such as exercise name, duration, and date. The logged exercises are stored locally in the browser, allowing users to access their exercise history even after refreshing the page.
 
