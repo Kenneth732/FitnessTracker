@@ -29,7 +29,7 @@ The Fitness Tracker is a web application that allows users to log their exercise
 
 To run the Fitness Tracker project locally, follow these steps:
 
-1. Clone the repository:
+# Clone the repository:
 
    ```
    git clone https://github.com/Kenneth732/FitnessTracker.git
